@@ -1,4 +1,4 @@
-## 🌍 Faraway
+## 🌍 Far Away
 A simple packing list app for trips. You can add items to pack, mark them as packed, and remove them.
 
 ### Features:
